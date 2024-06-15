@@ -1,5 +1,6 @@
-## Hi there 👋
+## Halo 👋
 
+I'm just a beginner doing some random stuff here, will update my readme again when I learned how to lol
 <!--
 **Pera208/Pera208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
