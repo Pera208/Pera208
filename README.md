@@ -8,7 +8,7 @@
 </div>
 <p></p>
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/peradon_pp/" target="blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/peradon_pp/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge">
   </a>
   <p>Discord : pera_xd</p>
