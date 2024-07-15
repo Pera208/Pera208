@@ -7,6 +7,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXp1c2xpZzBnc2x5ZHJodTY0M2NyemMxdGtoZTBxNjBxeTY2aGpibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GyJ8p0Um850ic/giphy.gif"/>
 </div>
 <p></p>
+<div align="center">
   <p>Discord : pera_xd</p>
 </div>
 
