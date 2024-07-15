@@ -23,7 +23,7 @@ I love pc, cars, airplanes, technology and my family I guess
 will probably update this readme later
 
 ---
-
+<!--
 #### :hammer_and_wrench: Languges and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="45" height="45">
@@ -38,7 +38,7 @@ will probably update this readme later
   
 </div>
 
-<!--
+
 **Pera208/Pera208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
