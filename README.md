@@ -13,7 +13,7 @@
 
 ## 🎮 About me
 
-I'm a *beginner* learning full stack development and python.
+I'm a *beginner* learning full stack development and python.  
 I mostly like tech stuff and a little bit of airplanes and cars, I'm also a video editing/graphic design hobbyist.
 
 ## 💻 Tools
