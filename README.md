@@ -12,6 +12,12 @@
 
 I'm a *beginner* learning full stack development and python. I wanna do compsci so I needa learn c too!  
 I mostly like tech stuff and a little bit of airplanes and cars, I'm also a video editing/graphic design hobbyist.
+- Will probably update github soon
+
+### 💻 What I'm doing
+- Cs50x (paused)
+- The odin project (paused)
+- Learning C cus I got into posn
 _ _ _
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pera208&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
