@@ -15,9 +15,10 @@ I mostly like tech stuff and a little bit of airplanes and cars, I'm also a vide
 - Will probably update github soon
 
 ### 💻 What I'm doing
-- Cs50x (paused)
-- The odin project (paused)
-- Learning C cus I got into posn
+- Cs50x
+- -Cs50p
+- The odin project for fullstack web dev(paused)
+- Learning C/C++
 _ _ _
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pera208&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
